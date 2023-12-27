@@ -1,2 +1,1 @@
-# Myntra
 Myntra Functional Clone
